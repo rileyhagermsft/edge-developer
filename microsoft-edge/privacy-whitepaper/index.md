@@ -1001,13 +1001,13 @@ To enable diagnostic data collection, go to `edge://settings/privacy`. Turn on t
 <!-- ====================================================================== -->
 ## Workspaces
 
-The Microsoft Edge Workspaces feature allows you to easily organize and share your browsing tasks with collaborators via customizable, shareable browsing windows. Each workspace shares favorites, a set of workspace tabs, and history, all created and curated by you and your collaborators. Workspace data is automatically saved, kept up-to-date, and stored in OneDrive/SharePoint.
+The Microsoft Edge Workspaces feature allows you to easily organize and share your browsing tasks with collaborators via customizable, shareable browsing windows. Each workspace shares a set of workspace tabs, favorites, and recently closed tabs, all created and curated by you and your collaborators. Workspace data is automatically saved, kept up-to-date, and stored in OneDrive/SharePoint.
 
 Microsoft Edge Workspaces shares tabs, favorites, and history with collaborators in real-time. Collaborators' profile pictures are used to indicate which workspace tab they are using and which workspace tabs they have opened, changed, or closed. Collaborators cannot see how you interact with a webpage (workspaces don't screen-share).
 
 Collaborators cannot see password-protected content unless they sign in and they have access via their own credentials. Microsoft Edge Workspaces doesn't store or share browsing data from non-workspace browsing sessions. If you leave a workspace, the stored contents remain available for other collaborators. If you delete a workspace, the stored contents are deleted for all collaborators.
 
-Microsoft Edge Workspaces is only available for enterprise customers who are signed into Microsoft Edge with a Microsoft Entra ID account.  Workspaces aren't available when using Guest mode or InPrivate browsing. 
+Microsoft Edge Workspaces is available for customers who are signed into Microsoft Edge with either an enterprise Microsoft Entra ID account or a Microsoft Account (MSA).  Workspaces aren't available when using Guest mode or InPrivate browsing. 
 
 
 <!-- ====================================================================== -->
